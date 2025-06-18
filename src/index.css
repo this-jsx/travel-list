@@ -140,3 +140,20 @@ input[type="checkbox"] {
   font-weight: 700;
   padding: 3.2rem 0;
 }
+
+@media screen and (max-width: 1024px) {
+  h1 {
+    font-size: 3.6rem;
+  }
+  form {
+    flex-direction: column;
+  }
+  form > select, form > input {
+    min-width: 22rem;
+    width: 25rem;
+    /* width: max-content; */
+  }
+  form > button {
+    margin-top: 2rem;
+  }
+}
