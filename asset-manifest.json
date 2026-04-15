@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/travel-list/static/css/main.d4fa3e02.css",
+    "main.css": "/travel-list/static/css/main.2ef82291.css",
     "main.js": "/travel-list/static/js/main.1e620d5b.js",
+    "static/media/best-beaches-palawan.jpg": "/travel-list/static/media/best-beaches-palawan.a9361aa740e7c8526d52.jpg",
     "index.html": "/travel-list/index.html",
-    "main.d4fa3e02.css.map": "/travel-list/static/css/main.d4fa3e02.css.map",
+    "main.2ef82291.css.map": "/travel-list/static/css/main.2ef82291.css.map",
     "main.1e620d5b.js.map": "/travel-list/static/js/main.1e620d5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4fa3e02.css",
+    "static/css/main.2ef82291.css",
     "static/js/main.1e620d5b.js"
   ]
 }
